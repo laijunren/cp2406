@@ -42,3 +42,4 @@ class CarTest {
         assertEquals("car_0", car.getId());
     }
 
+}
